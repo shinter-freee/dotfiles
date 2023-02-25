@@ -20,4 +20,5 @@ export FZF_DEFAULT_COMMAND='rg --files --follow --no-ignore-vcs --hidden -g "!{*
 
 set -x LC_ALL en_US.UTF-8  
 set -x LANG en_US.UTF-8
+set -x EDITOR nvim
 
